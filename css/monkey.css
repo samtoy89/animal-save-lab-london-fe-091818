@@ -1,8 +1,8 @@
 html {
   background: url(../images/spice-girls.jpg) no-repeat top left;
 }
-media only screen and (max-width: 600px) {
-    #ostrich {
+media only screen and (max-width: 1170px) {
+    #monkey {
         position: absolute;
         top: 100px;
         right:20px;
