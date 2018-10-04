@@ -3,7 +3,8 @@ html {
 }
 @media only screen and (max-width: 600px) {
     #ostrich {
-        
+        position: absolute;
+        top: 100px;
     }
 }
 
