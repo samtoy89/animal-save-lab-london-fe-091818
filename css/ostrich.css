@@ -1,6 +1,11 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
+@media only screen and (max-width: 600px) {
+    #ostrich {
+        background-color: lightblue;
+    }
+}
 
 #ostrich {
   position: absolute;
