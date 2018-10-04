@@ -1,6 +1,11 @@
 html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        position: 800px;
+    }
+}
 
 #bear {
   position: absolute;
